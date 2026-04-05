@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zorvyn-finance-dashboard/static/css/main.caf692d3.css",
+    "main.js": "/zorvyn-finance-dashboard/static/js/main.1b2294a5.js",
+    "static/js/453.d445a60a.chunk.js": "/zorvyn-finance-dashboard/static/js/453.d445a60a.chunk.js",
+    "index.html": "/zorvyn-finance-dashboard/index.html",
+    "main.caf692d3.css.map": "/zorvyn-finance-dashboard/static/css/main.caf692d3.css.map",
+    "main.1b2294a5.js.map": "/zorvyn-finance-dashboard/static/js/main.1b2294a5.js.map",
+    "453.d445a60a.chunk.js.map": "/zorvyn-finance-dashboard/static/js/453.d445a60a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf692d3.css",
+    "static/js/main.1b2294a5.js"
+  ]
+}
